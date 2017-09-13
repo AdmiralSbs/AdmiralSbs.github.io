@@ -31,14 +31,10 @@ h3 {
   font-size: 24px;
 }
 
-h3.oneIndent {
+.oneIndent {
   text-indent: 5em;
 }
 
-p.oneIndent {
-  text-indent: 5em;
-}
-
-p.twoIndent {
+.twoIndent {
   text-indent: 10em;
 }
