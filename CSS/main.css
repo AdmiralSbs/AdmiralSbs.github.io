@@ -1,7 +1,4 @@
 /* Fonts from Google Fonts - more at https://fonts.google.com */
-/* <p style="text-indent: 5em;">
-The first line of this paragraph will be indented about five characters, similar to a tabbed indent.
-</p> */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
@@ -27,6 +24,10 @@ h2 {
 h3 {
   font-family: "Merriweather", serif;
   font-size: 24px;
+}
+
+ul {
+ list-style-position: inside;
 }
 
 .center {
