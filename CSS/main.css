@@ -33,6 +33,9 @@ ul {
 .center {
   /*margin: auto;*/
   text-align: center;
+}
+
+h2.center, h1.center {
   color: #F9C1A9;
   background-color: #E98446;
 }
