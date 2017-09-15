@@ -33,6 +33,8 @@ ul {
 .center {
   /*margin: auto;*/
   text-align: center;
+  color: #F9C1A9;
+  background-color: #E98446;
 }
 
 .oneIndent {
